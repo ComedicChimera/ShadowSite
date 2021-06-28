@@ -41,6 +41,6 @@
     "babel-plugin-prismjs": "^2.0.1",
     "feather-icons": "^4.28.0",
     "outdent": "^0.8.0",
-    "prismjs": "^1.23.0"
+    "prismjs": "^1.24.0"
   }
 }
